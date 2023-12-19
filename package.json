@@ -1,0 +1,17 @@
+{
+  "name": "js_tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Wojciech Jarosz",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.0.0",
+    "uuid": "^9.0.1"
+  }
+}
